@@ -8,7 +8,7 @@
 
 # Instructions
 1. download "Drum Kit Web App" folder
-2. click on ....
+2. click on the "index.html" file
 3. press corresponding keys shown on screen to play the drum sounds
 
 # Screenshot
